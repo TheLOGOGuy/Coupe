@@ -21,7 +21,7 @@
     "gulp-coffee": "^1.4.2",
     "gulp-util": "^2.2.14",
     "gulp-bower": "0.0.4",
-    "browserify": "^4.1.6",
+    "browserify": "^12.0.0",
     "coffeeify": "^0.6.0",
     "vinyl-source-stream": "^0.1.1",
     "phantomjs": "^1.9.7-9",
